@@ -1,0 +1,1 @@
+web: gunicorn tlaut.wsgi --log-file
