@@ -2,7 +2,8 @@
 
 
 ### DISCLAIMER
-Project ini hanya sebatas proof of concept dan belum siap untuk skala production, karena banyak hal yang perlu diperhatikan terkait security dan akan diserahkan ke masing-masing untuk dikembangkan lebih lanjut.
+Project ini menggunakan midtrans client
+
 
 ---
 
